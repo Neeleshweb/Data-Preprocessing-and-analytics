@@ -1,0 +1,45 @@
+
+These are the datasets which are used in this assignment:
+
+https://data.novascotia.ca/Crime-and-Justice/Crime-Statistics-Crime-Severity-Index/w64p-5ue3 :- crime severity index-safety *
+
+https://data.novascotia.ca/Business-and-Industry/Tourism-Nova-Scotia-Visitation/n783-4gmh :- list of tourist vistors in numbers- business, lifestyle *
+
+https://data.novascotia.ca/Business-and-Industry/Tourism-Nova-Scotia-Fixed-Roof-Accommodations/458x-qn7p :- list of hotels in nova scotia- lifestyle,business *
+
+https://data.novascotia.ca/Education-Primary-to-Grade-12/Graduation-Information-by-Board/fmxh-aef7 :- list of boards for grad: Education *
+
+
+ADDITIONAL DATA SETS, WHICH WILL BE USEFUL FOR FUTURE ASSIGNMENTS:
+
+https://data.novascotia.ca/Business-and-Industry/Nova-Scotia-Co-operatives/k29k-n2db :- List of all co-operatives for different purposes-lifestyle
+
+https://data.novascotia.ca/Health-and-Wellness/Hospitals/tmfr-3h8a :- List of all hospitals in nova scotia -lifestyle
+
+http://catalogue-hrm.opendata.arcgis.com/datasets/29de9d04a3454e11a1e0a1f78a27bc07_0/data :- bus stop lists in nova scotia- Lifestyle
+
+https://data.novascotia.ca/Permits-and-Licensing/List-of-Licensed-Food-Establishments/2shh-dv8p :- list of all restaurants in nova scotia- lifestyle
+
+https://data.novascotia.ca/Roads-Driving-and-Transport/Ferry-Schedules/7izn-s679 :- list of ferries- lifestyle
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
