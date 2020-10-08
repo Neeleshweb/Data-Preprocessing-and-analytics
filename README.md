@@ -1,2 +1,2 @@
 This is a project where the Key performance indicators of the Halifax region are determined after rigorous Data Mining from multiple sources across the web by scraping data. This data is analysed and four KPIs are identified Graduation Rate, Crime Severity Index, Occupancy rate of hotels and Number of tourists.
-SQL and Python libraries liek Pandas, NumPy, Seaborn are used to analyse and draw conclusions from multiple datasets. 
+SQL and Python libraries like Pandas, NumPy, Seaborn are used to analyse and draw conclusions from multiple datasets. 
